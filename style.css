@@ -132,6 +132,19 @@ section {
   margin: 3px 0;
 }
 
+.publication-group {
+  margin-top: 2rem;
+}
+
+.publication-group h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #444;
+
+  border-left: 3px solid #7aa7d9;
+  padding-left: 0.65rem;
+}
+
 .publications {
   padding-left: 1.7rem;
 }
