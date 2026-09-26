@@ -193,7 +193,7 @@ section {
 .date {
   color: var(--muted);
   white-space: nowrap;
-  min-width: 180px;
+  min-width: 240px;
   flex-shrink: 0;
 }
 
