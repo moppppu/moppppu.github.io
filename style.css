@@ -123,9 +123,13 @@ section {
 
 .compact-list,
 .timeline,
-.publications {
+/* .publications {
   margin: 0;
   padding-left: 1.4rem;
+} */
+
+.publications {
+  padding-left: 1.7rem;
 }
 
 .compact-list li {
@@ -136,17 +140,21 @@ section {
   margin-top: 2rem;
 }
 
-.publication-group h3 {
+/* .publication-group h3 {
   font-size: 1.05rem;
   font-weight: 600;
   color: #444;
 
   border-left: 3px solid #7aa7d9;
   padding-left: 0.65rem;
-}
+} */
 
-.publications {
-  padding-left: 1.7rem;
+.publication-group h3 {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #555;
+  letter-spacing: 0.02em;
 }
 
 .publications li {
